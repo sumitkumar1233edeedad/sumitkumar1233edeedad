@@ -1,16 +1,35 @@
-## Hi there 👋
+ # 👋 Hi, I'm Sumit Sohal  
 
-<!--
-**sumitkumar1233edeedad/sumitkumar1233edeedad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 BCA Student | Aspiring **Data Scientist & AI Researcher** | Python • Machine Learning • AI Enthusiast  
 
-Here are some ideas to get you started:
+💡 I’m passionate about building **AI/ML projects** that solve real-world problems.  
+🌱 Currently learning: **Deep Learning, NLP, and Deployment**.  
+🎯 Goal: Work at **top AI labs (OpenAI, DeepMind)**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Featured Projects
+🌟 [SmartBite – Intelligent Food Selector](https://github.com/sumitkumar1233edeedad/SmartBite)  
+🎥 [YouTube Trending Analysis](https://github.com/sumitkumar1233edeedad/youtube-trending-analysis)  
+🎵 Spotify Song Popularity Predictor (Coming Soon)  
+🎨 AI Manga Colorizer (Coming Soon)  
+
+---
+
+## 📊 GitHub Stats
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitkumar1233edeedad&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumar1233edeedad&layout=compact&theme=radical)  
+
+---
+
+## 🔧 Tech Stack
+- Python 🐍 | Pandas | NumPy | Matplotlib  
+- Scikit-learn | TensorFlow | PyTorch  
+- NLP (HuggingFace) | Computer Vision (OpenCV)  
+- Deployment → Streamlit, Flask, FastAPI  
+
+---
+
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/sumit-kumar-42b09a296/) | [GitHub](https://github.com/sumitkumar1233edeedad)  
