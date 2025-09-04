@@ -9,8 +9,8 @@
 ---
 
 ## 📌 Featured Projects
-🎥 [YouTube Trending Analysis](https://github.com/sumitkumar1233edeedad/youtube-trending-analysis)
-🧑‍🎓 [student-grade-manager](https://github.com/sumitkumar1233edeedad/student-grade-manager.git)
+🎥 [YouTube Trending Analysis](https://github.com/sumitkumar1233edeedad/youtube-trending-analysis) 
+🧑‍🎓 [student-grade-manager](https://github.com/sumitkumar1233edeedad/student-grade-manager.git) 
 🎵 Spotify Song Popularity Predictor *(Coming Soon)*  
 🎨 AI Manga Colorizer *(Coming Soon)*  
 
