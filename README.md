@@ -7,12 +7,13 @@
 🎯 Goal: Work at **top AI labs (OpenAI, DeepMind)**.  
 
 ---
- ## 📌 Featured Projects  
+## 📌 Featured Projects  
+
 🎥 [YouTube Trending Analysis](https://github.com/sumitkumar1233edeedad/youtube-trending-analysis)  
-🧑‍🎓 [student-grade-manager](https://github.com/sumitkumar1233edeedad/student-grade-manager.git)  
-🏥 [covid19-data-visualization](https://github.com/sumitkumar1233edeedad/covid19-data-visualization.git)
-🎵 Spotify Song Popularity Predictor *(Coming Soon)*  
-🎨 AI Manga Colorizer *(Coming Soon)*
+🧑‍🎓 [Student Grade Manager](https://github.com/sumitkumar1233edeedad/student-grade-manager)  
+🏥 [COVID-19 Data Visualization](https://github.com/sumitkumar1233edeedad/covid19-data-visualization)  
+🎵 **Spotify Song Popularity Predictor** *(Coming Soon)*  
+🎨 **AI Manga Colorizer** *(Coming Soon)*
 
 ---
 
