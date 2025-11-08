@@ -12,8 +12,10 @@
 🎥 [YouTube Trending Analysis](https://github.com/sumitkumar1233edeedad/youtube-trending-analysis)  
 🧑‍🎓 [Student Grade Manager](https://github.com/sumitkumar1233edeedad/student-grade-manager)  
 🏥 [COVID-19 Data Visualization](https://github.com/sumitkumar1233edeedad/covid19-data-visualization)  
+🚢 [Titanic Survival Analysis](https://github.com/sumitkumar1233edeedad/titanic-survival-analysis)  
 🎵 **Spotify Song Popularity Predictor** *(Coming Soon)*  
 🎨 **AI Manga Colorizer** *(Coming Soon)*
+
 
 ---
 
