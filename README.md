@@ -35,7 +35,7 @@
 
 ## 🏆 Achievements & Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sumitkumar1233edeedad&theme=onedark&row=1&column=6)  
+![trophy](https://github-profile-trophy.vercel.app/?username=sumitkumar1233edeedad&theme=radical&row=1&column=6)  
 
 ---
 
