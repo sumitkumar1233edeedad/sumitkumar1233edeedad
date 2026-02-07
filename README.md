@@ -23,7 +23,12 @@
    - GitHub Repo: [Link](https://github.com/sumitkumar1233edeedad/-House-Price-Prediction-using-Machine-Learning)  
    - 💻 Live Demo (Streamlit App): [Click Here](https://house-price-predictors.streamlit.app/)  
 
+4. ✍️ **Handwritten Digit Recognition using CNN**  
+   - GitHub Repo: [Link](https://github.com/sumitkumar1233edeedad/Handwritten-Digit-Recognition-using-CNN)  
+   - 💻 Live Demo (Streamlit App): [Click Here](https://handwritten-digit-detector.streamlit.app/)  
+
 ---
+
 
 ## 📊 GitHub Stats
 
