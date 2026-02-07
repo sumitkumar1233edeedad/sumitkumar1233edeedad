@@ -29,14 +29,16 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitkumar1233edeedad&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumar1233edeedad&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=sumitkumar1233edeedad&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitkumar1233edeedad&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumar1233edeedad&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sumitkumar1233edeedad&theme=radical)
 
 ---
+
 
 ## 🏆 Achievements & Trophies
 
