@@ -6,40 +6,43 @@
 💡 I’m passionate about building **AI/ML projects** that solve real-world problems.  
 🌱 Currently learning: **Deep Learning, NLP, and Deployment**  
 🎯 Goal: Work at **top AI labs (OpenAI, DeepMind)**  
-
 ---
 
 # 🚀 Live Demo Projects
 
+## 🩺 Heart Disease Prediction using Machine Learning
+- 🔗 GitHub Repo: [ml-heart-diagnosis-system](https://github.com/sumitkumar1233edeedad/ml-heart-diagnosis-system)  
+- 💻 Live Demo (Streamlit App): [ml-heart-diagnosis-system.streamlit.app](https://ml-heart-diagnosis-system.streamlit.app/)  
+
+---
+
 ## 🎓 Student Performance Prediction System
-- 🔗 GitHub Repo: https://github.com/sumitkumar1233edeedad/Student-Performance-Prediction  
-- 💻 Live Demo (Streamlit App): https://student-performance-prediction-vanshu.streamlit.app/
+- 🔗 GitHub Repo: [Student-Performance-Prediction](https://github.com/sumitkumar1233edeedad/Student-Performance-Prediction)  
+- 💻 Live Demo (Streamlit App): [student-performance-predictor](https://student-performance-prediction-vanshu.streamlit.app/)  
 
 ---
 
 ## 📨 Spam SMS Classifier using NLP  
-- 🔗 GitHub Repo: https://github.com/sumitkumar1233edeedad/Spam-SMS-Classifier-using-NLP  
-- 💻 Live Demo (Streamlit App): https://spam-sms-classifier-using-nlp.streamlit.app/  
+- 🔗 GitHub Repo: [Spam-SMS-Classifier-using-NLP](https://github.com/sumitkumar1233edeedad/Spam-SMS-Classifier-using-NLP)  
+- 💻 Live Demo (Streamlit App): [spam-sms-classifier](https://spam-sms-classifier-using-nlp.streamlit.app/)  
 
 ---
 
 ## 🩺 Diabetes Prediction using Machine Learning  
-- 🔗 GitHub Repo: https://github.com/sumitkumar1233edeedad/-Diabetes-Prediction-using-Machine-Learning  
-- 💻 Live Demo (Streamlit App): https://clinical-diabetes-predictor.streamlit.app/  
+- 🔗 GitHub Repo: [Diabetes-Prediction-using-Machine-Learning](https://github.com/sumitkumar1233edeedad/-Diabetes-Prediction-using-Machine-Learning)  
+- 💻 Live Demo (Streamlit App): [clinical-diabetes-predictor](https://clinical-diabetes-predictor.streamlit.app/)  
 
 ---
 
 ## 🏠 House Price Prediction using Machine Learning  
-- 🔗 GitHub Repo: https://github.com/sumitkumar1233edeedad/-House-Price-Prediction-using-Machine-Learning  
-- 💻 Live Demo (Streamlit App): https://house-price-predictors.streamlit.app/  
+- 🔗 GitHub Repo: [House-Price-Prediction-using-Machine-Learning](https://github.com/sumitkumar1233edeedad/-House-Price-Prediction-using-Machine-Learning)  
+- 💻 Live Demo (Streamlit App): [house-price-predictors](https://house-price-predictors.streamlit.app/)  
 
 ---
 
 ## ✍️ Handwritten Digit Recognition using CNN  
-- 🔗 GitHub Repo: https://github.com/sumitkumar1233edeedad/Handwritten-Digit-Recognition-using-CNN  
-- 💻 Live Demo (Streamlit App): https://handwritten-digit-detector.streamlit.app/  
-
----
+- 🔗 GitHub Repo: [Handwritten-Digit-Recognition-using-CNN](https://github.com/sumitkumar1233edeedad/Handwritten-Digit-Recognition-using-CNN)  
+- 💻 Live Demo (Streamlit App): [handwritten-digit-detector](https://handwritten-digit-detector.streamlit.app/)  
 
 # 📊 GitHub Stats
 
