@@ -11,7 +11,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-kumar-42b09a296/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitkumar1233edeedad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumit-sohal-ai-researcher-data-scientist.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
 
 </div>
@@ -39,14 +39,111 @@ class SumitSohal:
 
 ## 🚀 Live Projects
 
-| 🏷️ Project | 📌 Description | 💻 Live Demo | 🔗 Code |
-|------------|----------------|-------------|---------|
-| 🩺 Heart Disease Prediction | ML model predicting heart disease risk | [![Streamlit](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ml-heart-diagnosis-system.streamlit.app/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sumitkumar1233edeedad/ml-heart-diagnosis-system) |
-| 🎓 Student Performance Predictor | Predicts student academic outcomes | [![Streamlit](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://student-performance-prediction-vanshu.streamlit.app/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sumitkumar1233edeedad/Student-Performance-Prediction) |
-| 📨 Spam SMS Classifier | NLP-powered SMS spam detection | [![Streamlit](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://spam-sms-classifier-using-nlp.streamlit.app/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sumitkumar1233edeedad/Spam-SMS-Classifier-using-NLP) |
-| 🩺 Diabetes Prediction | Clinical diabetes risk classifier | [![Streamlit](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://clinical-diabetes-predictor.streamlit.app/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sumitkumar1233edeedad/-Diabetes-Prediction-using-Machine-Learning) |
-| 🏠 House Price Prediction | Regression model for real estate pricing | [![Streamlit](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://house-price-predictors.streamlit.app/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sumitkumar1233edeedad/-House-Price-Prediction-using-Machine-Learning) |
-| ✍️ Handwritten Digit Recognition | CNN-based digit classifier | [![Streamlit](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://handwritten-digit-detector.streamlit.app/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sumitkumar1233edeedad/Handwritten-Digit-Recognition-using-CNN) |
+<div align="center">
+
+<!-- ROW 1 — Heart Disease (wide) + Student Performance -->
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+### 🩺 Heart Disease Prediction
+> Ensemble ML model predicting cardiovascular risk from clinical features.
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-FF4B4B?style=for-the-badge)](https://ml-heart-diagnosis-system.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/ml-heart-diagnosis-system)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
+
+</td>
+
+<td width="45%" valign="top">
+
+### 🎓 Student Performance Predictor
+> Predicts academic outcomes using 10+ socio-academic features.
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-FF4B4B?style=for-the-badge)](https://student-performance-prediction-vanshu.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/Student-Performance-Prediction)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
+
+</td>
+</tr>
+
+<!-- ROW 2 — Spam SMS + Diabetes -->
+<tr>
+
+<td width="55%" valign="top">
+
+### 📨 Spam SMS Classifier
+> NLP pipeline — TF-IDF vectoriser + Naive Bayes with 97%+ accuracy.
+
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-7F77DD?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-FF4B4B?style=for-the-badge)](https://spam-sms-classifier-using-nlp.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/Spam-SMS-Classifier-using-NLP)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
+
+</td>
+
+<td width="45%" valign="top">
+
+### 🩺 Diabetes Prediction
+> Clinical risk classifier on Pima Indian dataset with 8 biomarkers.
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-FF4B4B?style=for-the-badge)](https://clinical-diabetes-predictor.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/-Diabetes-Prediction-using-Machine-Learning)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
+
+</td>
+</tr>
+
+<!-- ROW 3 — House Price + CNN Digit -->
+<tr>
+
+<td width="55%" valign="top">
+
+### 🏠 House Price Prediction
+> Regression model with feature engineering and live price estimate UI.
+
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=flat-square&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-FF4B4B?style=for-the-badge)](https://house-price-predictors.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/-House-Price-Prediction-using-Machine-Learning)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
+
+</td>
+
+<td width="45%" valign="top">
+
+### ✍️ Handwritten Digit Recognition
+> CNN trained on MNIST with real-time canvas drawing input.
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-FF4B4B?style=for-the-badge)](https://handwritten-digit-detector.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/Handwritten-Digit-Recognition-using-CNN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -119,7 +216,7 @@ class SumitSohal:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-kumar-42b09a296/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumit-sohal-ai-researcher-data-scientist.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitkumar1233edeedad)
 
 </div>
