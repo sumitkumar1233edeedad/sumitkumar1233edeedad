@@ -141,6 +141,30 @@ class SumitSohal:
 
 </td>
 </tr>
+
+<!-- ROW 4 — Kidney Failure Detection (full width) -->
+<tr>
+
+<td width="55%" valign="top">
+
+### 🫘 Kidney Failure Detection
+> ML pipeline detecting Chronic Kidney Disease from 24 clinical features using the UCI dataset. Built with Polars for data processing and scikit-learn for classification.
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-FF4B4B?style=for-the-badge)](https://kidney-failure-detection-vanxy.streamlit.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/kidney-failure-detection)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
+
+</td>
+
+<td width="45%" valign="top">
+<!-- Reserved for future project -->
+</td>
+</tr>
+
 </table>
 
 </div>
