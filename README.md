@@ -27,7 +27,7 @@ class SumitSohal:
         self.degree      = "BCA — Bachelor of Computer Applications"
         self.role        = "Aspiring Data Scientist & AI Researcher"
         self.location    = "India 🇮🇳"
-        self.learning    = ["Deep Learning", "NLP", "Model Deployment"]
+        self.learning    = ["Deep Learning", "NLP", "Computer Vision", "Model Deployment"]
         self.goal        = "AI Researcher @ OpenAI / DeepMind 🌍"
         self.fun_fact    = "I turn coffee ☕ into ML models 🤖"
 
@@ -41,8 +41,9 @@ class SumitSohal:
 
 <div align="center">
 
-<!-- ROW 1 — Heart Disease (wide) + Student Performance -->
 <table>
+
+<!-- ROW 1 — Heart Disease (wide) + Student Performance -->
 <tr>
 
 <td width="55%" valign="top">
@@ -142,7 +143,7 @@ class SumitSohal:
 </td>
 </tr>
 
-<!-- ROW 4 — Kidney Failure Detection (full width) -->
+<!-- ROW 4 — Kidney Failure + AI Emotion Detection -->
 <tr>
 
 <td width="55%" valign="top">
@@ -161,7 +162,17 @@ class SumitSohal:
 </td>
 
 <td width="45%" valign="top">
-<!-- Reserved for future project -->
+
+### 😄 AI-Based Live Emotion Detection
+> Real-time facial emotion recognition system using deep learning. Detects 7 emotions — happiness, sadness, anger, surprise, fear, disgust & neutral — live via webcam using CNN + OpenCV.
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-4B0082?style=flat-square&logo=python&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/AI-Based-Live-Emotion-Detection)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
+
 </td>
 </tr>
 
