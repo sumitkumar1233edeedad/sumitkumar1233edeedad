@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sumitkumar1233edeedad&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-kumar-42b09a296/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-kumar-ml/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitkumar1233edeedad)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
@@ -35,28 +35,26 @@ class SumitSohal:
         print("Thanks for stopping by! Let's build something incredible together 🚀")
 ```
 
----
-
-## 🚀 Live Projects
+ ## 🚀 Live Projects
 
 <div align="center">
 
 <table>
 
-<!-- ROW 1 — Heart Disease (wide) + Student Performance -->
+<!-- ROW 1 — Fruit Classification (Top Spot!) + Student Performance -->
 <tr>
 
 <td width="55%" valign="top">
 
-### 🩺 Heart Disease Prediction
-> Ensemble ML model predicting cardiovascular risk from clinical features.
+### 🍎 Fruit Classification System
+> Deep Learning model targeting robust multiclass fruit identification via computer vision pipelines.
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-FF4B4B?style=for-the-badge)](https://ml-heart-diagnosis-system.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/ml-heart-diagnosis-system)
+[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-FF4B4B?style=for-the-badge)](https://fruit-classification-tensorflow.streamlit.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/fruit-classification-pytorch)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
 
 </td>
@@ -76,20 +74,20 @@ class SumitSohal:
 </td>
 </tr>
 
-<!-- ROW 2 — Spam SMS + Diabetes -->
+<!-- ROW 2 — Heart Disease + Diabetes -->
 <tr>
 
 <td width="55%" valign="top">
 
-### 📨 Spam SMS Classifier
-> NLP pipeline — TF-IDF vectoriser + Naive Bayes with 97%+ accuracy.
+### 🩺 Heart Disease Prediction
+> Ensemble ML model predicting cardiovascular risk from clinical features.
 
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-7F77DD?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-FF4B4B?style=for-the-badge)](https://spam-sms-classifier-using-nlp.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/Spam-SMS-Classifier-using-NLP)
+[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-FF4B4B?style=for-the-badge)](https://ml-heart-diagnosis-system.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/ml-heart-diagnosis-system)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
 
 </td>
@@ -109,20 +107,20 @@ class SumitSohal:
 </td>
 </tr>
 
-<!-- ROW 3 — House Price + CNN Digit -->
+<!-- ROW 3 — Spam SMS + CNN Digit -->
 <tr>
 
 <td width="55%" valign="top">
 
-### 🏠 House Price Prediction
-> Regression model with feature engineering and live price estimate UI.
+### 📨 Spam SMS Classifier
+> NLP pipeline — TF-IDF vectoriser + Naive Bayes with 97%+ accuracy.
 
-![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=flat-square&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-7F77DD?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-FF4B4B?style=for-the-badge)](https://house-price-predictors.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/-House-Price-Prediction-using-Machine-Learning)
+[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-FF4B4B?style=for-the-badge)](https://spam-sms-classifier-using-nlp.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/Spam-SMS-Classifier-using-NLP)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
 
 </td>
@@ -143,10 +141,25 @@ class SumitSohal:
 </td>
 </tr>
 
-<!-- ROW 4 — Kidney Failure + AI Emotion Detection -->
+<!-- ROW 4 — House Price + Kidney Failure -->
 <tr>
 
 <td width="55%" valign="top">
+
+### 🏠 House Price Prediction
+> Regression model with feature engineering and live price estimate UI.
+
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=flat-square&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-FF4B4B?style=for-the-badge)](https://house-price-predictors.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumitkumar1233edeedad/-House-Price-Prediction-using-Machine-Learning)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
+
+</td>
+
+<td width="45%" valign="top">
 
 ### 🫘 Kidney Failure Detection
 > ML pipeline detecting Chronic Kidney Disease from 24 clinical features using the UCI dataset. Built with Polars for data processing and scikit-learn for classification.
@@ -160,8 +173,12 @@ class SumitSohal:
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sumitkumar1233edeedad.github.io/sumit-sohal-portfolio)
 
 </td>
+</tr>
 
-<td width="45%" valign="top">
+<!-- ROW 5 — AI Emotion Detection (Centered Full-Width Bottom Row) -->
+<tr>
+
+<td width="100%" colspan="2" valign="top">
 
 ### 😄 AI-Based Live Emotion Detection
 > Real-time facial emotion recognition system using deep learning. Detects 7 emotions — happiness, sadness, anger, surprise, fear, disgust & neutral — live via webcam using CNN + OpenCV.
