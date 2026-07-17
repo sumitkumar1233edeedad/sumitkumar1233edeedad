@@ -36,6 +36,30 @@ class SumitSohal:
 ## Featured Projects
 
 <table width="100%">
+   <tr>
+    <td width="50%" valign="top">
+      <h3>Marrow — Full-Stack Blogging Platform</h3>
+      <p>A full-stack Django blog app with user authentication and profiles, a writer dashboard, topic-based browsing (design, coding, etc.), and image-rich article publishing.</p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+      <br/><br/>
+      <a href="https://marrow-blog.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logoColor=black"/></a>
+      <a href="https://github.com/sumitkumar1233edeedad/Marrow-blog"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Smart Translator</h3>
+      <p>A Django-powered language translation tool that translates text between multiple languages instantly using the Google Translate engine via deep-translator.</p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/deep--translator-4CAF50?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+      <br/><br/>
+      <a href="https://smart-translator-wax6.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logoColor=black"/></a>
+      <a href="https://github.com/sumitkumar1233edeedad/smart-translator"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>StudySpark</h3>
@@ -144,30 +168,7 @@ class SumitSohal:
       <a href="https://github.com/sumitkumar1233edeedad/AI-Based-Live-Emotion-Detection"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Marrow — Full-Stack Blogging Platform</h3>
-      <p>A full-stack Django blog app with user authentication and profiles, a writer dashboard, topic-based browsing (design, coding, etc.), and image-rich article publishing.</p>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-      <br/><br/>
-      <a href="https://marrow-blog.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logoColor=black"/></a>
-      <a href="https://github.com/sumitkumar1233edeedad/Marrow-blog"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Smart Translator</h3>
-      <p>A Django-powered language translation tool that translates text between multiple languages instantly using the Google Translate engine via deep-translator.</p>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/deep--translator-4CAF50?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-      <br/><br/>
-      <a href="https://smart-translator-wax6.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logoColor=black"/></a>
-      <a href="https://github.com/sumitkumar1233edeedad/smart-translator"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
-    </td>
-  </tr>
+
 </table>
 
 ---
