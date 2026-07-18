@@ -56,8 +56,8 @@ class SumitSohal:
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
       <br/><br/>
-      <a href="https://smart-translator-wax6.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logoColor=black"/></a>
-      <a href="https://github.com/sumitkumar1233edeedad/smart-translator"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+      <a href="https://CodeAlpha_smart-translator-wax6.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logoColor=black"/></a>
+      <a href="https://github.com/sumitkumar1233edeedad/CodeAlpha_smart-translator"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
     </td>
   </tr>
   <tr>
