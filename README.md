@@ -48,16 +48,16 @@ class SumitSohal:
       <a href="https://marrow-blog.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logoColor=black"/></a>
       <a href="https://github.com/sumitkumar1233edeedad/Marrow-blog"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>Smart Translator</h3>
-      <p>A Django-powered language translation tool that translates text between multiple languages instantly using the Google Translate engine via deep-translator.</p>
+     <td width="50%" valign="top">
+      <h3>CodeAlpha FAQChatbot</h3>
+      <p>A Django-powered rule-based FAQ chatbot that matches user questions to a curated dataset using NLTK preprocessing and TF-IDF + cosine similarity — no external API or paid LLM required.</p>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/deep--translator-4CAF50?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
       <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
       <br/><br/>
-      <a href="https://CodeAlpha_smart-translator-wax6.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logoColor=black"/></a>
-      <a href="https://github.com/sumitkumar1233edeedad/CodeAlpha_smart-translator"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+      <a href="https://codealpha-faqchatbot-hq7d.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logoColor=black"/></a>
+      <a href="https://github.com/sumitkumar1233edeedad/CodeAlpha_FAQChatbot"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
     </td>
   </tr>
   <tr>
