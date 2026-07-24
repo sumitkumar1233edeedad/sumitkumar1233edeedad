@@ -170,7 +170,7 @@ class SumitSohal:
   </tr>
 
   <tr>
-      <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3>CodeAlpha Smart Translator</h3>
       <p>A Django-powered language translation tool that translates text between multiple languages instantly using the Google Translate engine via deep-translator.</p>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -180,8 +180,20 @@ class SumitSohal:
       <br/><br/>
       <a href="https://smart-translator-wax6.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logoColor=black"/></a>
       <a href="https://github.com/sumitkumar1233edeedad/CodeAlpha_smart-translator"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
-    </td>
-  </tr>
+  </td>
+
+  <td width="50%" valign="top">
+    <h3>LungVision AI</h3>
+    <p>A Django-powered chest X-ray classifier that detects signs of pneumonia using a custom-trained TensorFlow/Keras CNN model.</p>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+    <br/><br/>
+    <a href="https://lungvision-ai-f1jr.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logoColor=black"/></a>
+    <a href="https://github.com/sumitkumar1233edeedad/lungvision-ai"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+  </td>
+</tr>
 
 </table>
 
